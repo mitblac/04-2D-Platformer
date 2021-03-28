@@ -1,17 +1,28 @@
-# Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
-
-A Godot Project Template, for use in future projects.
+# 04-2D-Platformer
+Project 03 for MSCH-C220, 3/27/21
 
 ## Implementation
+
 Built using Godot 3.2.3
-Includes WASD mappings (up, left, down, right) and escape to quit.
+
+Backgrounds and assets sourced from:
+- kenny.nl
+
+Music sourced from:
+- patrickdearteaga.com
+
+## Included Additional Features
+
+- Background Music x2
 
 ## References
-None
+
+N/A
 
 ## Future Development
-None
 
-## Created by 
+N/A
+
+## Created by
+
 Mitchell Black
